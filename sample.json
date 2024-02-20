@@ -1,0 +1,97 @@
+{
+    "status": "ok",
+    "totalResults": 7,
+    "articles": [
+      {
+        "source": {
+          "id": "info-money",
+          "name": "InfoMoney"
+        },
+        "author": "lucasgmarins",
+        "title": "Bitcoin sobe e fica acima de US$ 43 mil à medida que pressões negativas diminuem",
+        "description": "Ethereum, Solana e BNB Chain também operam em alta nesta segunda",
+        "url": "https://www.infomoney.com.br/mercados/bitcoin-hoje-sobe-e-fica-acima-dos-us-43-mil-a-medida-que-pressoes-negativas-diminuem/",
+        "urlToImage": "https://www.infomoney.com.br/wp-content/uploads/2022/08/valor-do-bitcoin.jpg?quality=70",
+        "publishedAt": "2024-02-05T11:04:29Z",
+        "content": "O Bitcoin (BTC) é negociado no campo positivo na manhã desta segunda-feira (5) à medida que as pressões negativas sobre o mercado de criptomoedas diminuem. Os demais ativos digitais operam mistos.\r\nU… [+4328 chars]"
+      },
+      {
+        "source": {
+          "id": "les-echos",
+          "name": "Les Echos"
+        },
+        "author": "Nessim Aït-Kacimi",
+        "title": "Prévisions sur le bitcoin : le grand écart entre les gourous et le grand public",
+        "description": "Les gourous maintiennent leurs prévisions d'une envolée de la leader des cryptos en 2024, malgré un mois de janvier de stagnation. Le lancement des ETF sur le bitcoin a laissé indifférent le grand public sur les perspectives d'évolution de cette crypto.",
+        "url": "https://www.lesechos.fr/finance-marches/marches-financiers/previsions-sur-le-bitcoin-le-grand-ecart-entre-les-gourous-et-le-grand-public-2073968",
+        "urlToImage": "https://media.lesechos.com/api/v1/images/view/65c0ae76891ba92c367a5e69/1280x720/0901476375101-web-tete.jpg",
+        "publishedAt": "2024-02-05T09:46:24Z",
+        "content": "Entre les experts du secteur des cryptos, qui voient le bitcoin à 100.000 dollars cette année, et les particuliers, les anticipations divergent. La moitié des particuliers imagine le bitcoin (actuell… [+3756 chars]"
+      },
+      {
+        "source": {
+          "id": "australian-financial-review",
+          "name": "Australian Financial Review"
+        },
+        "author": "Jessica Sier",
+        "title": "Sam Bankman-Fried: FTX investor losses show the dangers of giving control to exchanges",
+        "description": "A single bitcoin is worth $US26,000 more today than when the exchange collapsed, but investors being “paid back” won’t see any of that upside.",
+        "url": "http://www.afr.com/technology/ftx-investor-losses-show-the-dangers-of-giving-control-to-exchanges-20240202-p5f1w1",
+        "urlToImage": "https://static.ffx.io/images/$zoom_0.6623%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_opinion_no_age_social_wm/221f38521ba11ca1b57a5a39d9b61555c6b4888f",
+        "publishedAt": "2024-02-05T01:35:07Z",
+        "content": "And luckily for the administrators led by John Jay Ray III, who led the bankruptcy of disgraced energy titan Enron theres been an unbelievable rally in crypto prices since Bankman-Frieds miserable co… [+2366 chars]"
+      },
+      {
+        "source": {
+          "id": "techcrunch",
+          "name": "TechCrunch"
+        },
+        "author": "Karan Bhasin and Alex Wilhelm",
+        "title": "Perhaps this is why the bitcoin spot ETFs are yet to send crypto prices to the moon | TechCrunch",
+        "description": "A survey of TechCrunch readers reveals that while the spot ETFs may boost bitcoin's price, they may not be attracting many people who don't own bitcoin.",
+        "url": "https://techcrunch.com/2024/02/04/bitcoin-etfs-crypto-prices/",
+        "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/10/ransomware-red-Samuil_Levich-getty.jpeg?resize=1200,798",
+        "publishedAt": "2024-02-02T18:58:09Z",
+        "content": "The long-awaited launch of bitcoin spot ETFs in the United States this year helped engender a wave of optimism that the value of the well-known cryptocurrency would quickly appreciate. The logic was … [+1374 chars]"
+      },
+      {
+        "source": {
+          "id": "ars-technica",
+          "name": "Ars Technica"
+        },
+        "author": "John Timmer",
+        "title": "Over 2 percent of the US’s electricity generation now goes to bitcoin",
+        "description": "US government tracking the energy implications of booming bitcoin mining in US.",
+        "url": "https://arstechnica.com/science/2024/02/over-2-percent-of-the-uss-electricity-generation-now-goes-to-bitcoin/",
+        "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/GettyImages-1305523746-760x380.jpg",
+        "publishedAt": "2024-02-02T18:52:23+00:00",
+        "content": "Enlarge/ It takes a lot of energy to keep pumping out more bitcoins.\r\n328\r\nWhat exactly is bitcoin mining doing to the electric grid? In the last few years, the US has seen a boom in cryptocurrency m… [+4789 chars]"
+      },
+      {
+        "source": {
+          "id": "les-echos",
+          "name": "Les Echos"
+        },
+        "author": "Thomas Pontiroli",
+        "title": "Comment le fantôme de FTX hante encore le marché du bitcoin",
+        "description": "Les ETF bitcoin au comptant ayant fait leurs débuts à Wall Street enregistrent des milliards de dollars de collecte. Ce n'est pas le cas du fonds GBTC de Grayscale, qui subit une décollecte très forte et fait chuter le bitcoin. Derrière cette liquidation mass…",
+        "url": "https://www.lesechos.fr/finance-marches/marches-financiers/comment-le-fantome-de-ftx-hante-jusquaux-etf-bitcoin-2071212",
+        "urlToImage": "https://media.lesechos.com/api/v1/images/view/65b13b0718107c19d22fb4e6/1280x720/01002499599127-web-tete.jpg",
+        "publishedAt": "2024-01-24T16:29:54Z",
+        "content": "La plateforme d'échange de Sam Bankman-Fried n'est plus. Pourtant, elle continue de hanter le secteur des cryptos. FTX, dont la chute retentissante en novembre 2022 a entraîné dans son sillage des fa… [+946 chars]"
+      },
+      {
+        "source": {
+          "id": "les-echos",
+          "name": "Les Echos"
+        },
+        "author": "Bastien Bouchaud",
+        "title": "Le bitcoin, nouvelle pomme de discorde entre les géants de Wall Street",
+        "description": "Les ETF de BlackRock et de Fidelity viennent de dépasser le milliard de dollars d'encours. Mais ils restent inaccessibles aux clients de l'autre géant de la gestion passive et pionnier des fonds indiciels, Vanguard.",
+        "url": "https://www.lesechos.fr/finance-marches/marches-financiers/le-bitcoin-nouvelle-pomme-de-discorde-entre-les-geants-de-wall-street-2070804",
+        "urlToImage": "https://media.lesechos.com/api/v1/images/view/65af9330831faf2100793c59/1280x720/01002419799987-web-tete.jpg",
+        "publishedAt": "2024-01-23T10:21:30Z",
+        "content": "A peine lancés, les fonds cotés (ETF) sur le bitcoin s'inscrivent déjà parmi les plus populaires de Wall Street. Deux fonds, celui de BlackRock et celui de Fidelity, ont accumulé en quelques jours pl… [+747 chars]"
+      }
+    ]
+  }
